@@ -1,0 +1,7 @@
+factorial 1.1 dela ezarri;
+
+i bakoitzeko 1 eta 52 artean {
+    factorial factorial * i dela ezarri;
+}
+
+(factorial)inprimatu;

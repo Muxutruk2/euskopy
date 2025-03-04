@@ -1,0 +1,9 @@
+x 1 dela ezarri;
+y 1 dela ezarri;
+
+i bakoitzeko 1 eta 100 artean {
+  z x + y dela ezarri;
+  (z)inprimatu;
+  x y dela ezarri;
+  y z dela ezarri;
+}

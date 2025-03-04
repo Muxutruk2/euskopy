@@ -1,0 +1,15 @@
+[package]
+name = "euskopy"
+version = "0.1.0"
+edition = "2021"
+description = "Compiler for the euskopy language, a subset of python, grammatically correct in Basque"
+repository = "https://github.com/Muxutruk2/euskopy"
+readme = "README.md"
+license = "MIT"
+keywords = ["transpiler", "python", "basque"]
+categories = ["compilers"]
+
+
+[dependencies]
+env_logger = "0.11.6"
+log = "0.4.26"

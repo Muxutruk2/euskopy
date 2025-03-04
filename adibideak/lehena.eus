@@ -1,0 +1,11 @@
+n 29 dela ezarri;
+lehena 1 dela ezarri;
+
+
+i bakoitzeko 2 eta 29 artean {
+  n % i == 0 bada {
+    lehena 0 dela ezarri;
+  }
+}
+
+(lehena)inprimatu
